@@ -68,6 +68,7 @@ char *test_int(char *str, unsigned int n, stack_t *h)
 			exit(EXIT_FAILURE);
 		}
 	}
+
 	return (str);
 }
 
