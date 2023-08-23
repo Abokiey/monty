@@ -37,7 +37,7 @@ void (*get_opcode(char *str))(stack_t **, unsigned int)
 }
 
 /**
- * test_int - Entry point-> It tests whether argument passed to push is an integer.
+ * test_int - Entry point-> It tests if argument passed to push is an integer.
  * @str: input arguments to push
  * @n: input line number
  * @h: input pointer to the head node
