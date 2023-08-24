@@ -1,7 +1,7 @@
 #include "monty.h"
 
 /**
- * get_opcodes - chooses the right opcode for the operation
+ * get_opcodes - chooses the right opcode for the operation.
  *
  * @opcode: opcode passed
  *
