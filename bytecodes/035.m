@@ -1,3 +1,0 @@
-rotr
-#rotl
-pall
